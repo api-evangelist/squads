@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: https://grid.squads.xyz/
+note: >-
+  Squads has two distinct developer surfaces with different auth models. No
+  in-repo OpenAPI was available to derive securitySchemes mechanically; this
+  profile is searched from the product docs.
+summary:
+  types: [apiKey, wallet-signature]
+surfaces:
+  - name: Grid API
+    kind: rest
+    auth: apiKey
+    detail: >-
+      Grid (stablecoin API for accounts, payments, cards, yield) authenticates
+      with an API key generated in the Grid dashboard (grid.squads.xyz).
+    docs: https://grid.squads.xyz/
+  - name: Squads Multisig
+    kind: onchain-sdk
+    auth: wallet-signature
+    detail: >-
+      The Multisig SDK (@sqds/multisig) and Rust crate build and sign Solana
+      transactions; authorization is enforced on-chain by the Squads Protocol
+      program (multisig member keys + thresholds), not by an API credential.
+    docs: https://docs.squads.so/main/development

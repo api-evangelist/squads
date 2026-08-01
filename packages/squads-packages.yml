@@ -1,0 +1,47 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.npmjs.com/~sqds
+packages:
+  - language: javascript
+    registry: npm
+    name: "@sqds/multisig"
+    version: 2.1.4
+    url: https://www.npmjs.com/package/@sqds/multisig
+    install: npm install @sqds/multisig
+    description: SDK for the Squads Multisig Program v4 (smart accounts on Solana).
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@sqds/sdk"
+    version: 2.0.4
+    url: https://www.npmjs.com/package/@sqds/sdk
+    install: npm install @sqds/sdk
+    description: SDK for interacting with the Squads Multisig programs (v3 lineage).
+    official: true
+  - language: javascript
+    registry: npm
+    name: "@sqds/cli"
+    version: 2.3.19
+    url: https://www.npmjs.com/package/@sqds/cli
+    install: npm install -g @sqds/cli
+    description: Command-line interface for Squads.
+    official: true
+    kind: cli
+  - language: javascript
+    registry: npm
+    name: "@sqds/mesh"
+    version: 1.0.6
+    url: https://www.npmjs.com/package/@sqds/mesh
+    install: npm install @sqds/mesh
+    description: SDK for the Squads Mesh program (archived).
+    official: true
+    status: deprecated
+  - language: rust
+    registry: crates.io
+    name: squads-multisig
+    version: 2.1.0
+    url: https://crates.io/crates/squads-multisig
+    install: cargo add squads-multisig
+    description: Rust SDK for building automated programs against Squads Multisig on Solana.
+    repository: https://github.com/Squads-Protocol/v4
+    official: true

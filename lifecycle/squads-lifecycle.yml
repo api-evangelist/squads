@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: https://docs.squads.so/main
+versioning:
+  scheme: protocol-major-version
+  current: v4
+  docs: https://docs.squads.so/main
+  notes: >-
+    Squads Protocol ships as discrete, immutable on-chain program versions.
+    v4 (launched Oct 2023) is current; v3 powers "Squads Legacy".
+deprecation:
+  policy_url: null
+  legacy_line: v3 (Squads Legacy) — superseded by v4; documented under squads-legacy/.
+  notes: >-
+    On-chain programs are immutable rather than deprecated in the traditional
+    sense; the v3 program remains live and immutable, with new development on v4.
+sla:
+  url: null
+status_page: null
+status_page_note: >-
+  No hosted status page found (squadsprotocol.statuspage.io is unclaimed and
+  redirects to Atlassian marketing). No StatusPage pointer emitted.
+immutability:
+  v3_immutable_since: '2023-02'
+  v4_immutable_since: '2024-11'

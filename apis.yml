@@ -1,8 +1,28 @@
 aid: squads
 name: Squads
-description: 'Squads is a company surfaced as a portfolio company of electric-capital, multicoin-capital
-  and added to the API Evangelist network as a stub for enrichment. Sector: infrastructure. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: >-
+  Squads Labs builds smart-account and stablecoin infrastructure on Solana. Its
+  flagship Squads Protocol is an open-source, formally-verified, immutable
+  multisig program (v3 and v4) that secures over $10 billion in on-chain assets
+  for 350+ teams, exposed to developers through the @sqds/multisig TypeScript SDK,
+  a Rust crate, and the @sqds/cli command-line tool. Squads also operates Grid, a
+  stablecoin API for accounts, payments, cards, and yield that lets fintech
+  developers build neobank-style products on stablecoin rails with sub-second
+  settlement. This profile was seeded as a VC-portfolio lead and enriched by the
+  API Evangelist pipeline from Squads' public developer surface.
+accessModel:
+  pricing: unknown
+  onboarding: self-serve
+  trial: false
+  try_now: false
+  public: false
+  label: Self-serve signup
+  confidence: medium
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
+image: https://avatars.githubusercontent.com/u/84348534
 url: https://raw.githubusercontent.com/api-evangelist/squads/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,16 +33,113 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Infrastructure
-apis: []
+- Blockchain
+- Solana
+- Multisig
+- Smart Accounts
+- Stablecoins
+- Payments
+- Wallet
+- Web3
+apis:
+- name: Squads Multisig SDK
+  description: >-
+    TypeScript and Rust SDKs plus a CLI for creating and operating Squads
+    multisigs (smart accounts) on Solana — creating multisigs, proposing,
+    approving and executing transactions, and managing program-upgrade
+    authorities against the immutable Squads Protocol v4 program.
+  humanURL: https://docs.squads.so/main/development
+  baseURL: https://docs.squads.so/main/development
+  tags:
+  - Multisig
+  - Smart Accounts
+  - Solana
+  - SDK
+  properties:
+  - type: Documentation
+    url: https://docs.squads.so/main/development
+  - type: SourceCode
+    url: https://github.com/Squads-Protocol/v4
+  - type: SDKs
+    url: https://www.npmjs.com/package/@sqds/multisig
+- name: Grid API
+  description: >-
+    Grid is Squads' stablecoin API for accounts, payments, cards, and yield —
+    letting developers build neobank-style fintech products on stablecoin rails
+    with API-key authentication, multi-rail payouts (stablecoins, ACH, Wire,
+    SEPA), and sub-second settlement.
+  humanURL: https://grid.squads.xyz/
+  baseURL: https://grid.squads.xyz/
+  tags:
+  - Stablecoins
+  - Payments
+  - Cards
+  - API
+  properties:
+  - type: SignUp
+    url: https://grid.squads.xyz/welcome
+  - type: Login
+    url: https://grid.squads.xyz/login
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/squads-trust-center.yml
+- type: Compliance
+  url: https://trust.squads.xyz/
 - type: Website
-  url: https://squads.so/
+  url: https://squads.xyz/
+- type: DeveloperPortal
+  url: https://docs.squads.so/main
+- type: Documentation
+  url: https://docs.squads.so/main
+- type: GettingStarted
+  url: https://docs.squads.so/main/getting-started/quickstart-guide
+- type: APIReference
+  url: https://docs.squads.so/main/development
+- type: GitHubOrganization
+  url: https://github.com/Squads-Protocol
+- type: Blog
+  url: https://squads.xyz/blog
+- type: Pricing
+  url: https://docs.squads.so/main/getting-started/pricing
+- type: SignUp
+  url: https://grid.squads.xyz/welcome
+- type: TermsOfService
+  url: https://squads.xyz/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://squads.xyz/legal/privacy-policy
+- type: Support
+  url: https://discord.com/invite/squadsprotocol
+- type: Packages
+  url: packages/squads-packages.yml
+- type: SDKs
+  url: packages/squads-packages.yml
+- type: CLI
+  url: cli/squads-cli.yml
+- type: LLMsTxt
+  url: llms/squads-llms.txt
+- type: Authentication
+  url: authentication/squads-authentication.yml
+- type: Lifecycle
+  url: lifecycle/squads-lifecycle.yml
+- type: Conformance
+  url: conformance/squads-conformance.yml
+- type: VulnerabilityDisclosure
+  url: security/squads-vulnerability-disclosure.yml
+- type: Security
+  url: https://docs.squads.so/main/security/bug-bounty.md
+- type: DomainSecurity
+  url: security/squads-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 9
+  pass: local-v1

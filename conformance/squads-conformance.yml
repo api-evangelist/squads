@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://docs.squads.so/main/basics/security.md
+note: >-
+  Squads is Solana smart-account / multisig infrastructure. Its assurance model
+  is on-chain security (third-party program audits + formal verification +
+  immutability), not a traditional SOC 2 / ISO compliance program. No named
+  compliance certification (SOC 2 / ISO 27001 / PCI / HIPAA) was found published,
+  so no `Compliance` pointer is emitted.
+standards:
+  - id: solana-anchor
+    conforms: true
+    evidence: Squads Protocol v3/v4 programs are written in Anchor and deployed on Solana.
+  - id: third-party-security-audit
+    conforms: true
+    evidence: Multiple audits by OtterSec, Certora, Neodyme et al. (docs.squads.so/main/security/security-audits)
+  - id: formal-verification
+    conforms: true
+    evidence: Squads Protocol v4 has undergone two formal verifications.
+  - id: immutable-program
+    conforms: true
+    evidence: v3 immutable since Feb 2023; v4 immutable since Nov 2024.
+  - id: perpetual-bug-bounty
+    conforms: true
+    evidence: Perpetual bug bounty program, max $300k (security/squads-vulnerability-disclosure.yml)
+  - id: soc2
+    conforms: false
+  - id: oauth2
+    conforms: false

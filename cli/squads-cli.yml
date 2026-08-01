@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.npmjs.com/package/@sqds/cli
+name: "@sqds/cli"
+version: 2.3.19
+repository: https://github.com/Squads-Protocol/squads-cli
+install:
+  - method: npm
+    command: npm install -g @sqds/cli
+binary: squads
+description: >-
+  First-party command-line interface for creating and operating Squads
+  multisigs (smart accounts) on Solana from the terminal — creating multisigs,
+  proposing and approving transactions, and managing program-upgrade authorities.
+surface_note: >-
+  Command surface not fully re-transcribed here; the CLI is published on npm as
+  @sqds/cli and its binary is catalogued in packages/squads-packages.yml.
+notes: >-
+  The legacy standalone squads-cli GitHub repository is archived; the CLI
+  continues to be published to npm (latest 2.3.19).

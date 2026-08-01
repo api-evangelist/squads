@@ -1,0 +1,23 @@
+generated: '2026-07-21'
+method: searched
+note: >-
+  Probed the /.well-known/ discovery surface on the Squads hosts. No document
+  returned HTTP 200; docs.squads.so returns 307 redirects (GitBook), the product
+  hosts return 404. No raw files saved and no WellKnown/SecurityTxt pointer
+  emitted — honest empty result.
+hosts:
+  - host: https://squads.xyz
+    documents:
+      - {path: /.well-known/security.txt, status: 404}
+      - {path: /.well-known/openid-configuration, status: 404}
+      - {path: /.well-known/oauth-authorization-server, status: 404}
+      - {path: /.well-known/api-catalog, status: 404}
+      - {path: /.well-known/ai-plugin.json, status: 404}
+  - host: https://grid.squads.xyz
+    documents:
+      - {path: /.well-known/security.txt, status: 404}
+      - {path: /.well-known/openid-configuration, status: 404}
+  - host: https://docs.squads.so
+    documents:
+      - {path: /.well-known/security.txt, status: 307}
+      - {path: /.well-known/openid-configuration, status: 307}

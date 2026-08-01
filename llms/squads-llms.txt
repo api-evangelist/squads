@@ -1,0 +1,206 @@
+# Squads Docs
+
+## Squads
+
+- [Welcome to Squads Multisig](https://docs.squads.so/main/basics/welcome-to-squads-multisig.md): Learn more about Squads and Squads Protocol.
+- [What is a multisig](https://docs.squads.so/main/basics/what-is-a-multisig.md): Fundamental explanation of a multisig wallet and its importance.
+- [Who we are - Squads Labs](https://docs.squads.so/main/basics/who-we-are-squads-labs.md): Learn more about the team.
+- [Security](https://docs.squads.so/main/basics/security.md): Learn more about security on Squads.
+- [Quickstart Guide](https://docs.squads.so/main/getting-started/quickstart-guide.md): Everything you need to know about your first Squads multisig.
+- [Create a Squad](https://docs.squads.so/main/getting-started/create-a-squad.md): Everything you need to know about creating your first Squad.
+- [On and Off-Ramp](https://docs.squads.so/main/getting-started/on-and-off-ramp.md): Everything you need to know about on and off-ramping assets from your Squad
+- [Virtual US Bank Account](https://docs.squads.so/main/getting-started/on-and-off-ramp/virtual-us-bank-account.md): Learn how to set up a virtual US bank account.
+- [Sphere](https://docs.squads.so/main/getting-started/on-and-off-ramp/sphere.md): Learn how to on and off-ramp crypto with Sphere.
+- [Coinflow Off-ramp](https://docs.squads.so/main/getting-started/on-and-off-ramp/coinflow-off-ramp.md): Learn how to off-ramp your assets to your bank account.
+- [Bridge Off-Ramp](https://docs.squads.so/main/getting-started/on-and-off-ramp/bridge-off-ramp.md): Learn how to off-ramp your assets to your bank account using Bridge.
+- [Third-Party Payouts](https://docs.squads.so/main/getting-started/on-and-off-ramp/third-party-payouts.md): Make USDC payouts to any bank account, with funds arriving in USD or EUR.
+- [Treasury Management Overview](https://docs.squads.so/main/getting-started/treasury-management-overview.md)
+- [Pricing](https://docs.squads.so/main/getting-started/pricing.md): Learn more about the Squads subscription plans.
+- [Dashboard](https://docs.squads.so/main/navigating-your-squad/dashboard.md): Everything you need to know about your Squad, in one place.
+- [Transactions](https://docs.squads.so/main/navigating-your-squad/transactions.md): How to initiate and execute various transaction types within your Squad.
+- [Priority fees](https://docs.squads.so/main/navigating-your-squad/transactions/priority-fees.md)
+- [Batch actions](https://docs.squads.so/main/navigating-your-squad/transactions/batch-actions.md)
+- [Rent Reclaim](https://docs.squads.so/main/navigating-your-squad/transactions/rent-reclaim.md)
+- [Members](https://docs.squads.so/main/navigating-your-squad/members.md): Access granular control over the members of your Squad.
+- [Manage Members](https://docs.squads.so/main/navigating-your-squad/members/manage-members.md): Add, remove and manage member settings.
+- [Permissions](https://docs.squads.so/main/navigating-your-squad/members/permissions.md): Add granular control to your operations.
+- [Fee Relayer](https://docs.squads.so/main/navigating-your-squad/members/fee-relayer.md): Learn how to use the Fee Relayer.
+- [Treasury](https://docs.squads.so/main/navigating-your-squad/treasury.md): Manage your treasury assets with Squads.
+- [Sub-accounts](https://docs.squads.so/main/navigating-your-squad/treasury/sub-accounts.md): Learn how to use sub-accounts in Squads.
+- [Manage assets](https://docs.squads.so/main/navigating-your-squad/treasury/manage-assets.md): Initiate withdrawals, deposits, swaps, off-ramps, burn assets and manage NFTs.
+- [Contacts](https://docs.squads.so/main/navigating-your-squad/treasury/contacts.md)
+- [Airdrop Checker](https://docs.squads.so/main/navigating-your-squad/treasury/airdrop-checker.md)
+- [Payments](https://docs.squads.so/main/navigating-your-squad/payments.md): Streamline your onchain payments
+- [Trade](https://docs.squads.so/main/navigating-your-squad/trade.md): Create and manage Limit Orders and Swaps in the Squads app
+- [Limit Orders](https://docs.squads.so/main/navigating-your-squad/trade/limit-orders.md): Place trades that get automatically filled at specific prices without worrying about price execution or slippage.
+- [Swaps](https://docs.squads.so/main/navigating-your-squad/trade/swaps.md): Swaps are filled at the current market price and liquidity.
+- [Stake](https://docs.squads.so/main/navigating-your-squad/stake.md)
+- [Staking with Squads](https://docs.squads.so/main/navigating-your-squad/stake/staking-with-squads.md): Details on staking your SOL with the Squads Validator
+- [Direct Staking](https://docs.squads.so/main/navigating-your-squad/stake/direct-staking.md): The details of our integration with Stakewiz.
+- [Liquid Staking](https://docs.squads.so/main/navigating-your-squad/stake/liquid-staking.md): The liquid staking providers accessible from Squads.
+- [Marinade Native](https://docs.squads.so/main/navigating-your-squad/stake/marinade-native.md): Stake with 100+ validators through Marinade Native
+- [Developers assets](https://docs.squads.so/main/navigating-your-squad/developers-assets.md): Manage developer assets with multisig security.
+- [Programs](https://docs.squads.so/main/navigating-your-squad/developers-assets/programs.md): How to create, upgrade, and change the authority of programs within your Squad.
+- [Validators](https://docs.squads.so/main/navigating-your-squad/developers-assets/validators.md): How to manage validators within your Squad.
+- [Token Manager](https://docs.squads.so/main/navigating-your-squad/developers-assets/token-manager.md): Learn how to manage tokens inside your Squad.
+- [Transaction Builder](https://docs.squads.so/main/navigating-your-squad/developers-assets/transaction-builder.md): Learn how to use arbitrary instructions within Squads using Transaction Builder.
+- [Settings](https://docs.squads.so/main/navigating-your-squad/settings.md): Learn how to manage the settings of your Squad and its members.
+- [Spending Limits](https://docs.squads.so/main/navigating-your-squad/settings/spending-limits.md)
+- [Coin List Filter](https://docs.squads.so/main/navigating-your-squad/settings/coin-list-filter.md): Hide Spam, Regain Control
+- [Privacy](https://docs.squads.so/main/navigating-your-squad/settings/privacy.md)
+- [Time Locks](https://docs.squads.so/main/navigating-your-squad/settings/time-locks.md)
+- [Integrated apps](https://docs.squads.so/main/navigating-your-squad/integrated-apps.md): Access the best products on Solana directly from your Squad.
+- [TipLink](https://docs.squads.so/main/navigating-your-squad/integrated-apps/tiplink.md): Learn how to send assets to email addresses
+- [Range](https://docs.squads.so/main/navigating-your-squad/integrated-apps/range.md): Greater transparency for your Squads transactions
+- [SNS](https://docs.squads.so/main/navigating-your-squad/integrated-apps/sns.md): Learn how to send SOL to .sol domains
+- [Safe](https://docs.squads.so/main/navigating-your-squad/integrated-apps/safe.md): Learn how to add your Safe wallet in Squads
+- [SquadsX](https://docs.squads.so/main/navigating-your-squad/squadsx.md): Learn more about the SquadsX browser extension.
+- [Start using SquadsX](https://docs.squads.so/main/navigating-your-squad/squadsx/start-using-squadsx.md): Learn how to use the SquadsX extension.
+- [Compatible Apps](https://docs.squads.so/main/navigating-your-squad/squadsx/compatible-apps.md): List of applications compatible with SquadsX
+- [Reporting and Accounting](https://docs.squads.so/main/navigating-your-squad/reporting-and-accounting.md): Learn more about managing compliance with Squads
+- [Request Finance](https://docs.squads.so/main/navigating-your-squad/reporting-and-accounting/request-finance.md)
+- [Integral](https://docs.squads.so/main/navigating-your-squad/reporting-and-accounting/integral.md)
+- [FAQs](https://docs.squads.so/main/additional-resources/faqs.md): Frequently asked questions.
+- [Advanced Security Best Practices](https://docs.squads.so/main/additional-resources/advanced-security-best-practices.md): Advanced best practices to safeguard your assets.
+- [Costs of using Squads](https://docs.squads.so/main/additional-resources/costs-of-using-squads.md): How much does it cost to use Squads
+- [Sending assets to/from centralized exchange (CEXs)](https://docs.squads.so/main/additional-resources/sending-assets-to-from-centralized-exchange-cexs.md)
+- [Squads on Mobile](https://docs.squads.so/main/additional-resources/squads-on-mobile.md): Learn how to use Squads on your mobile device
+- [What if the Squads app goes down](https://docs.squads.so/main/additional-resources/what-if-the-squads-app-goes-down.md): The Squads Backup Kit ensures you can always access your assets through multiple options
+- [Key aspects of using a multisig](https://docs.squads.so/main/additional-resources/key-aspects-of-using-a-multisig.md)
+- [Self Custody Society (SCS)](https://docs.squads.so/main/additional-resources/self-custody-society-scs.md)
+
+## Security
+
+- [How secure is Squads](https://docs.squads.so/main/security/how-secure-is-squads.md)
+- [Security Audits](https://docs.squads.so/main/security/security-audits.md)
+- [Squads Protocol v4](https://docs.squads.so/main/security/security-audits/squads-protocol-v4.md): Find all the audits our v4 program has gone through.
+- [Squads Protocol v3](https://docs.squads.so/main/security/security-audits/squads-protocol-v3.md): Find all the audits our v3 program has gone through.
+- [Formal Verifications](https://docs.squads.so/main/security/formal-verifications.md)
+- [Squads Protocol v4](https://docs.squads.so/main/security/formal-verifications/squads-protocol-v4.md)
+- [Squads Protocol v3](https://docs.squads.so/main/security/formal-verifications/squads-protocol-v3.md)
+- [Bug bounty](https://docs.squads.so/main/security/bug-bounty.md): Learn more about the Squads perpetual bug bounty program
+
+## Development
+
+- [What is Squads Protocol](https://docs.squads.so/main/development/introduction/what-is-squads-protocol.md): Introduction to building on Squads Protocol
+- [Use Cases](https://docs.squads.so/main/development/introduction/use-cases.md): What can you build with Squads?
+- [Quickstart](https://docs.squads.so/main/development/introduction/quickstart.md): A 10 minute overview on how to interact with Squads Protocol using Typescript.
+- [Building with Next.js](https://docs.squads.so/main/development/quickstarts/building-with-next.js.md): Get started building with Squads in a Next.js app within 10 minutes
+- [Building with Node](https://docs.squads.so/main/development/quickstarts/building-with-node.md): Get started building with Squads in a Node.js app
+- [More Examples](https://docs.squads.so/main/development/quickstarts/more-examples.md): Extra examples for the Squads v4 SDK
+- [Overview](https://docs.squads.so/main/development/typescript/overview.md): Build with the Squads v4 Typescript SDK
+- [Guides](https://docs.squads.so/main/development/typescript/guides.md)
+- [Create a Squad and execute your first transaction](https://docs.squads.so/main/development/typescript/guides/create-a-squad-and-execute-your-first-transaction.md): Using multisigCreateV2 and Vault Transactions to execute your first actions with Squads
+- [Execute a batch of transactions](https://docs.squads.so/main/development/typescript/guides/execute-a-batch-of-transactions.md): Leverage batches to couple transactions
+- [Reclaim transaction rent](https://docs.squads.so/main/development/typescript/guides/reclaim-transaction-rent.md)
+- [Add members and change threshold](https://docs.squads.so/main/development/typescript/guides/add-members-and-change-threshold.md)
+- [Instructions](https://docs.squads.so/main/development/typescript/instructions.md)
+- [Create Multisig](https://docs.squads.so/main/development/typescript/instructions/create-multisig.md): Create a Squads multisig
+- [Create Config Transaction](https://docs.squads.so/main/development/typescript/instructions/create-config-transaction.md): Change global config on your multisig
+- [Create Vault Transaction](https://docs.squads.so/main/development/typescript/instructions/create-vault-transaction.md): Add arbitrary transactions to execute through your multisig
+- [Create Proposal](https://docs.squads.so/main/development/typescript/instructions/create-proposal.md): Handle consensus and enable execution for Transactions
+- [Approve Proposal](https://docs.squads.so/main/development/typescript/instructions/approve-proposal.md): Cast an approval on a given transaction's proposal
+- [Reject Proposal](https://docs.squads.so/main/development/typescript/instructions/reject-proposal.md): Cast a rejection on a given transaction's proposal
+- [Cancel Proposal](https://docs.squads.so/main/development/typescript/instructions/cancel-proposal.md): Cancel a proposal that is stale, or of approved status
+- [Execute Config Transaction](https://docs.squads.so/main/development/typescript/instructions/execute-config-transaction.md): Execute an approved Config Transaction
+- [Execute Vault Transaction](https://docs.squads.so/main/development/typescript/instructions/execute-vault-transaction.md): Execute an approved vault transaction
+- [Create Batch](https://docs.squads.so/main/development/typescript/instructions/create-batch.md): Creating a batch for coupling transactions
+- [Add To Batch](https://docs.squads.so/main/development/typescript/instructions/add-to-batch.md): Adding a transaction to an active batch account
+- [Close Vault Transaction Account](https://docs.squads.so/main/development/typescript/instructions/close-vault-transaction-account.md): Reclaim rent from a stale, cancelled, or executed Vault Transaction
+- [Controlled Multisig Instructions](https://docs.squads.so/main/development/typescript/instructions/controlled-multisig-instructions.md): Instructions that are only accessible to multisigs with a Config Authority.
+- [Add Member](https://docs.squads.so/main/development/typescript/instructions/controlled-multisig-instructions/add-member.md): Add a Member via Config Authority
+- [Remove Member](https://docs.squads.so/main/development/typescript/instructions/controlled-multisig-instructions/remove-member.md): Remove a member via Config Authority
+- [Set Rent Collector](https://docs.squads.so/main/development/typescript/instructions/controlled-multisig-instructions/set-rent-collector.md): Edit rent collector address via Config Authority
+- [Add spending limit](https://docs.squads.so/main/development/typescript/instructions/controlled-multisig-instructions/add-spending-limit.md): Add a spending limit via Config Authority
+- [Remove Spending Limit](https://docs.squads.so/main/development/typescript/instructions/controlled-multisig-instructions/remove-spending-limit.md): Remove a spending limit via Config Authority
+- [Accounts](https://docs.squads.so/main/development/typescript/accounts.md)
+- [Multisig](https://docs.squads.so/main/development/typescript/accounts/multisig.md): Main configuration account for Squads multisigs
+- [Vault](https://docs.squads.so/main/development/typescript/accounts/vault.md): Accounts that store assets, and sign for executed transactions
+- [Transactions](https://docs.squads.so/main/development/typescript/accounts/transactions.md): Accounts that store different types of transactions
+- [Proposal](https://docs.squads.so/main/development/typescript/accounts/proposal.md): Stores information on voting and status of a transaction
+- [Batch](https://docs.squads.so/main/development/typescript/accounts/batch.md)
+- [Accounts](https://docs.squads.so/main/development/reference/accounts.md): Various account types in Squads V4, and how to derive them.
+- [Permissions](https://docs.squads.so/main/development/reference/permissions.md): Limit members to certain interactions
+- [Spending Limits](https://docs.squads.so/main/development/reference/spending-limits.md)
+- [Time-locks](https://docs.squads.so/main/development/reference/time-locks.md)
+- [SDKs](https://docs.squads.so/main/development/reference/sdks.md)
+- [Controlled Multisigs](https://docs.squads.so/main/development/reference/controlled-multisigs.md): Understanding Config Authority with Squads
+- [Transaction Builder](https://docs.squads.so/main/development/reference/transaction-builder.md)
+- [Vault Check](https://docs.squads.so/main/development/api/vault-check.md): Check if a given address maps to a Squad vault.
+- [Installation](https://docs.squads.so/main/development/cli/installation.md)
+- [Commands](https://docs.squads.so/main/development/cli/commands.md)
+- [We're here to help](https://docs.squads.so/main/development/get-support/were-here-to-help.md)
+- [Migrating from MultisigCreate v1 to v2](https://docs.squads.so/main/development/other/migrating-from-multisigcreate-v1-to-v2.md)
+- [Squads Actions and Blinks](https://docs.squads.so/main/development/other/squads-actions-and-blinks.md): Get started building Blinks on Squads v4.
+
+## SquadsX Beta (Development)
+
+- [What is SquadsX](https://docs.squads.so/main/squadsx-beta-development/what-is-squadsx.md)
+- [Understanding the SquadsX Extension Wallet](https://docs.squads.so/main/squadsx-beta-development/understanding-the-squadsx-extension-wallet.md)
+- [Overcoming Integration Obstacles](https://docs.squads.so/main/squadsx-beta-development/guides/overcoming-integration-obstacles.md)
+- [Not Using Wallet Standard Adapter](https://docs.squads.so/main/squadsx-beta-development/guides/overcoming-integration-obstacles/not-using-wallet-standard-adapter.md)
+- [Ephemeral Signers](https://docs.squads.so/main/squadsx-beta-development/guides/overcoming-integration-obstacles/ephemeral-signers.md)
+- [Large Transaction Problem](https://docs.squads.so/main/squadsx-beta-development/guides/overcoming-integration-obstacles/large-transaction-problem.md)
+- [UI Feedback and Delayed Execution](https://docs.squads.so/main/squadsx-beta-development/guides/overcoming-integration-obstacles/ui-feedback-and-delayed-execution.md)
+- [Mandatory Sign-In with Off-chain Message Signing](https://docs.squads.so/main/squadsx-beta-development/guides/overcoming-integration-obstacles/mandatory-sign-in-with-off-chain-message-signing.md)
+
+## Squads Legacy (v3)
+
+- [What's a Squad?](https://docs.squads.so/main/squads-legacy/getting-started/whats-a-squad.md): The characteristics of a Squad.
+- [Create a Squad](https://docs.squads.so/main/squads-legacy/getting-started/create-a-squad.md): Everything you need to know about creating and joining Squad.
+- [Dashboard](https://docs.squads.so/main/squads-legacy/navigating-your-squad/dashboard.md): Overview of the "Dashboard" tab.
+- [Vault](https://docs.squads.so/main/squads-legacy/navigating-your-squad/vault.md): Overview of the "Vault" section.
+- [Transactions](https://docs.squads.so/main/squads-legacy/navigating-your-squad/transactions.md): How to initiate and execute various transaction types within your Squad.
+- [Developers](https://docs.squads.so/main/squads-legacy/navigating-your-squad/developers.md): Overview of the section.
+- [Programs](https://docs.squads.so/main/squads-legacy/navigating-your-squad/developers/programs.md): How to create, upgrade, and change the authority of programs within your Squad.
+- [Token Manager](https://docs.squads.so/main/squads-legacy/navigating-your-squad/developers/token-manager.md): Learn how to manage tokens inside your Squad
+- [Validators](https://docs.squads.so/main/squads-legacy/navigating-your-squad/developers/validators.md): How to manage validators within your Squad.
+- [TX Builder](https://docs.squads.so/main/squads-legacy/navigating-your-squad/developers/tx-builder.md): Learn how to use arbitrary instructions within Squads using Transaction Builder.
+- [Creators](https://docs.squads.so/main/squads-legacy/navigating-your-squad/creators.md): How to secure your NFT upgrade authority in a Squad.
+- [Apps](https://docs.squads.so/main/squads-legacy/navigating-your-squad/apps.md): How to use featured Apps with your Squad vault.
+- [Owners and Settings](https://docs.squads.so/main/squads-legacy/navigating-your-squad/owners-and-settings.md): How to adjust the settings of your Squad.
+- [Staking](https://docs.squads.so/main/squads-legacy/integrations/staking.md): Staking integrations inside Squads Protocol.
+- [Stakewiz](https://docs.squads.so/main/squads-legacy/integrations/staking/stakewiz.md): The details of our integration with Stakewiz.
+- [JitoSOL](https://docs.squads.so/main/squads-legacy/integrations/staking/jitosol.md): The details of our integration with Jito.
+- [Lido](https://docs.squads.so/main/squads-legacy/integrations/staking/lido.md): The details of our integration with Lido.
+- [Marinade](https://docs.squads.so/main/squads-legacy/integrations/staking/marinade.md): The details of our integration with Marinade
+- [SolBlaze](https://docs.squads.so/main/squads-legacy/integrations/staking/solblaze.md): The details of our integration with SolBlaze.
+- [Swap](https://docs.squads.so/main/squads-legacy/integrations/swap.md)
+- [Tensor](https://docs.squads.so/main/squads-legacy/integrations/tensor.md): The details of our integration with Tensor.
+- [Dialect](https://docs.squads.so/main/squads-legacy/integrations/dialect.md): The details of our integration with Dialect.
+- [Bonfida](https://docs.squads.so/main/squads-legacy/integrations/bonfida.md): The details of our integration with Bonfida.
+- [Coinflow](https://docs.squads.so/main/squads-legacy/integrations/coinflow.md): The details of our integration with Coinflow.
+- [General](https://docs.squads.so/main/squads-legacy/frequently-asked-questions/general.md)
+- [Costs of using Squads](https://docs.squads.so/main/squads-legacy/frequently-asked-questions/costs-of-using-squads.md)
+- [PDAs](https://docs.squads.so/main/squads-legacy/development/pdas.md): Squads uses PDAs extensively, take a moment to familiarize yourself with the various types
+- [Multisig](https://docs.squads.so/main/squads-legacy/development/pdas/multisig.md)
+- [Transaction](https://docs.squads.so/main/squads-legacy/development/pdas/transaction.md)
+- [Instruction](https://docs.squads.so/main/squads-legacy/development/pdas/instruction.md)
+- [Derivation](https://docs.squads.so/main/squads-legacy/development/pdas/derivation.md): Example hierarchy of PDAs for two Transactions with two instructions each
+- [Authorities](https://docs.squads.so/main/squads-legacy/development/authorities.md)
+- [Anchor IDL](https://docs.squads.so/main/squads-legacy/development/anchor-idl.md): Using the Squads MPL with Anchor
+- [Loading the Program](https://docs.squads.so/main/squads-legacy/development/anchor-idl/loading-the-program.md): Create the Program instance
+- [Create a Multisig](https://docs.squads.so/main/squads-legacy/development/anchor-idl/create-a-multisig.md)
+- [Transactions](https://docs.squads.so/main/squads-legacy/development/anchor-idl/transactions.md)
+- [Create a Transaction](https://docs.squads.so/main/squads-legacy/development/anchor-idl/transactions/create-a-transaction.md)
+- [Adding Instructions](https://docs.squads.so/main/squads-legacy/development/anchor-idl/transactions/adding-instructions.md)
+- [Activating a Transaction](https://docs.squads.so/main/squads-legacy/development/anchor-idl/transactions/activating-a-transaction.md)
+- [Approve / Reject a Transaction](https://docs.squads.so/main/squads-legacy/development/anchor-idl/transactions/approve-reject-a-transaction.md)
+- [Executing](https://docs.squads.so/main/squads-legacy/development/anchor-idl/transactions/executing.md)
+- [SDK](https://docs.squads.so/main/squads-legacy/development/sdk.md): Squads SDK and additional resources.
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.squads.so/main/basics/welcome-to-squads-multisig.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.
