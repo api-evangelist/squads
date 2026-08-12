@@ -90,6 +90,9 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: License
+  name: AGPL-3.0
+  url: https://github.com/Squads-Protocol/v4/blob/main/LICENSE
 - type: TrustCenter
   url: security/squads-trust-center.yml
 - type: Compliance
