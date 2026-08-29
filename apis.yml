@@ -10,6 +10,19 @@ description: >-
   developers build neobank-style products on stablecoin rails with sub-second
   settlement. This profile was seeded as a VC-portfolio lead and enriched by the
   API Evangelist pipeline from Squads' public developer surface.
+deliveryModel:
+  model: open-core
+  license: AGPL-3.0
+  open_source: true
+  commercial: true
+  callable_host: false
+  label: Open core · an OSS project plus a commercial hosted product
+  confidence: high
+  source:
+  - license
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: self-serve
@@ -105,6 +118,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: IssueTracker
+  url: https://github.com/Squads-Protocol/v4/issues
+- type: SecurityPolicy
+  url: https://github.com/Squads-Protocol/v4/blob/main/SECURITY.md
 - type: License
   name: AGPL-3.0
   url: https://github.com/Squads-Protocol/v4/blob/main/LICENSE
